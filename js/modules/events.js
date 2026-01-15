@@ -200,4 +200,5 @@ export const Events = {
 
         Events.init(tripId);
     }
+
 };
